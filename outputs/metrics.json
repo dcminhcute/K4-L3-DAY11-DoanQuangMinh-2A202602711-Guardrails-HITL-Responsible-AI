@@ -1,0 +1,17 @@
+{
+  "total_requests": 29,
+  "blocked_requests": 7,
+  "block_rate": 0.2413793103448276,
+  "rate_limit_hits": 13,
+  "judge_checks": 0,
+  "judge_fails": 0,
+  "judge_fail_rate": 0.0,
+  "alerts": [
+    {
+      "metric": "rate_limit_hits",
+      "value": 13,
+      "threshold": 5,
+      "message": "Rate limit hits 13 exceeds threshold 5"
+    }
+  ]
+}
